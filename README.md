@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Kingwu12
-- 👀 I’m interested in a lot of fancy things and creation (...coding) happens to be one of them :)
-- 🌱 I’m currently learning backend dev
-- 💞️ I’m looking to collaborate on a start-up project. Honestly, I am soloing it to limit test myself. 
-- 📫 How to reach me privacy for now x.
+# Hey there, I'm King Wu 👑
 
-<!---
-Kingwu12/Kingwu12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`Full-Stack developer & Quant Trader`**
+
+### A bit about me:
+
+- Nationality: cn/au
+- Personal interests: :basketball: :tennis: :muscle: :computer: :moneybag: :motorcycle: :ramen:
+- Current location: 📍 Melbourne, VIC, Australia
+- Education: Bachelor of Mechanical Engineering (Honours) and Bachelor of Finance @ Monash University
+---
+
+I'm always working on something and learning something. Feel free to reach out and see what I'm up to now 💬
+
+🌎 Check my [portfolio](https://timbaker.me/)
+
+<br />
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kingwu12&show_icons=true&theme=synthwave" alt="King's GitHub stats"/>
+
+
+
