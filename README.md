@@ -12,7 +12,7 @@
 
 I'm always working on something and learning something. Feel free to reach out and see what I'm up to now 💬
 
-🌎 Check my [portfolio](https://king-personal-website-kingwu12s-projects.vercel.app/)
+🌎 Check my [portfolio](www.kingwu.net)
 
 <br />
 
