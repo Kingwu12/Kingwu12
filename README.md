@@ -1,22 +1,30 @@
-# Hey there, I'm King Wu 👑
+### Hey, I'm King 👑
 
-**`Full-Stack developer & Quant Trader`**
+**Founder @ [Mode Labs](https://verdict.modelabs.studio)** — a one-person company where the org chart is me and an AI operating system.
 
-### A bit about me:
+**What I'm building:**
 
-- Nationality: cn/au
-- Personal interests: :basketball: :tennis: :muscle: :computer: :moneybag: :motorcycle: :ramen:
-- Current location: 📍 Melbourne, VIC, Australia
-- Education: Bachelor of Mechanical Engineering (Honours) and Bachelor of Finance @ Monash University
+🏰 **Empire OS** — a self-hosted AI operating system that runs the company: fires coding agents into isolated worktrees, edits and ships video, manages the content pipeline, watches its own infrastructure, and wakes me up with a voice briefing. One founder, many hands.
+
+⚔️ **Verdict** — a mobile game where the missions are real life. One real-world action a day, proof required, the crowd is visible. Pre-launch.
+
+🎮 **The Algorithm Game** — a social experiment running inside Instagram's feed. 156k+ players, an 11M-view round, and a 16k-member kingdom on Discord. The audience isn't watching the show — they *are* the show.
+
+**The thesis:** attention → action → coordination. Content is the distribution engine, community is the culture layer, product is the execution artifact — and AI runs the machinery so one person can build all of it.
+
+Previously built **Foca** (AI screen-tutor) — shipped it, killed it, kept the lessons.
+Final-year Mechanical Engineering (Honours) + Finance @ Monash.
+
+📍 Melbourne &nbsp;·&nbsp; 📸 [@kinggwuu_](https://instagram.com/kinggwuu_) &nbsp;·&nbsp; ▶️ [@Kingwu1206](https://youtube.com/@Kingwu1206)
+
 ---
 
-I'm always working on something and learning something. Feel free to reach out and see what I'm up to now 💬
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite/libSQL](https://img.shields.io/badge/SQLite%2FlibSQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🌎 Check out my [portfolio](https://www.kingwu.net/)
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kingwu12&show_icons=true&theme=synthwave" alt="King's GitHub stats"/>
-
-
-
+<img src="https://github-readme-stats.zohan.tech/api?username=Kingwu12&theme=github_dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="King's GitHub stats" />
