@@ -8,7 +8,7 @@
 
 ⚔️ **Verdict** — a mobile game where the missions are real life. One real-world action a day, proof required, the crowd is visible. Pre-launch.
 
-🎮 **The Algorithm Game** — a social experiment running inside Instagram's feed. 156k+ players, an 11M-view round, and a 16k-member kingdom on Discord. The audience isn't watching the show — they *are* the show.
+🎮 **The Algorithm Game** — a social experiment running inside Instagram's feed. 200k+ players, an 11M-view round, and a 30k-member kingdom on Discord. The audience isn't watching the show — they *are* the show.
 
 **The thesis:** attention → action → coordination. Content is the distribution engine, community is the culture layer, product is the execution artifact — and AI runs the machinery so one person can build all of it.
 
