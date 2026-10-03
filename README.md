@@ -1,18 +1,20 @@
 ### Hey, I'm King 👑
 
-**Founder @ [Mode Labs](https://verdict.modelabs.studio)** — a one-person company where the org chart is me and an AI operating system.
+**Founder @ [Mode Labs](https://modelabs.studio)**: a one-person company where the org chart is me and an AI operating system.
 
 **What I'm building:**
 
-🏰 **Empire OS** — a self-hosted AI operating system that runs the company: fires coding agents into isolated worktrees, edits and ships video, manages the content pipeline, watches its own infrastructure, and wakes me up with a voice briefing. One founder, many hands.
+🏰 **Empire OS**: a self-hosted AI operating system that runs the company: fires coding agents into isolated worktrees, edits and ships video, manages the content pipeline, watches its own infrastructure, and wakes me up with a voice briefing. One founder, many hands.
 
-⚔️ **Verdict** — a mobile game where the missions are real life. One real-world action a day, proof required, the crowd is visible. Pre-launch.
+⚔️ **[Verdict](https://verdict.modelabs.studio)**: a mobile game where the missions are real life. One real-world action a day, proof required, the crowd is visible. Live on iOS and Google Play.
 
-🎮 **The Algorithm Game** — a social experiment running inside Instagram's feed. 200k+ players, an 11M-view round, and a 30k-member kingdom on Discord. The audience isn't watching the show — they *are* the show.
+🥊 **[Versus](https://versus.modelabs.studio)**: camera-refereed party duels in the browser. Your webcam is the referee; challenge a friend in one link.
 
-**The thesis:** attention → action → coordination. Content is the distribution engine, community is the culture layer, product is the execution artifact — and AI runs the machinery so one person can build all of it.
+🎮 **The Algorithm Game**: a social experiment running inside Instagram's feed. 200k+ players, an 11M-view round, and a 30k-member kingdom on Discord. The audience isn't watching the show; they *are* the show.
 
-Previously built **Foca** (AI screen-tutor) — shipped it, killed it, kept the lessons.
+**The thesis:** attention → action → coordination. Content is the distribution engine, community is the culture layer, product is the execution artifact, and AI runs the machinery so one person can build all of it.
+
+Previously built **Foca** (AI screen-tutor). Shipped it, killed it, kept the lessons.
 Final-year Mechanical Engineering (Honours) + Finance @ Monash.
 
 📍 Melbourne &nbsp;·&nbsp; 📸 [@kinggwuu_](https://instagram.com/kinggwuu_) &nbsp;·&nbsp; ▶️ [@Kingwu1206](https://youtube.com/@Kingwu1206)
